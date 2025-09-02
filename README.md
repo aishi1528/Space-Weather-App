@@ -5,7 +5,7 @@ Stay updated with the latest **solar storms, geomagnetic activity, and cosmic ev
 ---
 
 ## 🌠 Live Demo  
-👉 [Check it live here](https://aishi1528.github.io/space-weather-app/)
+👉 [Check it live here](https://aishi1528.github.io/Space-Weather-App/)
 
 ---
 
